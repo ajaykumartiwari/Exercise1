@@ -1,0 +1,12 @@
+body{
+	background-color: lightblue;
+}
+.wrap{
+	width: 50%;
+	margin: 0 auto;
+}
+.b1{
+	width: 100%;
+	border: 1px solid white;
+	text-align: center;
+}
